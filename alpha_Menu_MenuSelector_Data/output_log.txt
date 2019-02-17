@@ -1,0 +1,59 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   24.21.14.1170
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projects\Unity\_Finished Projects\Ship_Tower_defence\alpha_Menu_MenuSelector_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1228 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.013600 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b60 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.929800 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.232900 ms (FindLiveObjects: 0.052400 ms CreateObjectMapping: 0.019200 ms MarkObjects: 0.154400 ms  DeleteObjects: 0.006300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.622900 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.207700 ms (FindLiveObjects: 0.030400 ms CreateObjectMapping: 0.018400 ms MarkObjects: 0.152300 ms  DeleteObjects: 0.006300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.311200 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.214700 ms (FindLiveObjects: 0.029100 ms CreateObjectMapping: 0.006800 ms MarkObjects: 0.172800 ms  DeleteObjects: 0.005600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487500 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1297.
+Total: 0.417800 ms (FindLiveObjects: 0.079000 ms CreateObjectMapping: 0.018300 ms MarkObjects: 0.298600 ms  DeleteObjects: 0.006500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.904300 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 1298.
+Total: 0.405200 ms (FindLiveObjects: 0.059200 ms CreateObjectMapping: 0.018800 ms MarkObjects: 0.265100 ms  DeleteObjects: 0.061800 ms)
+
